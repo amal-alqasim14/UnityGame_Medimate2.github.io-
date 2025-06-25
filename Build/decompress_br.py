@@ -3,9 +3,9 @@ import os
 
 # Bestanden in huidige map
 input_files = [
-    "WebsiteGame.data.br",
-    "WebsiteGame.framework.js.br",
-    "WebsiteGame.wasm.br"
+    "MedimateGame2.data.br",
+    "MedimateGame2.framework.js.br",
+    "MedimateGame2.wasm.br"
 ]
 
 for file in input_files:
